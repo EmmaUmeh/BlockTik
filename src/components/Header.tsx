@@ -14,7 +14,7 @@ export default function Header() {
           transition={{ duration: 0.5 }}
         >
           <a href="/" className="text-2xl font-bold text-black">
-            BlockTix
+          BlockTik
           </a>
         </motion.div>
         <motion.ul
